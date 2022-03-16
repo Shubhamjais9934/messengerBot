@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-doc-bot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: shubham.kumar69
+Implementation-Vendor-Id: me.aboullaite
+Build-Jdk: 1.8.0_141
+Implementation-URL: http://projects.spring.io/spring-boot/spring-doc-b
+ ot/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
